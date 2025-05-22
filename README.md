@@ -8,3 +8,4 @@ Purpose of sales analytics: Identify sales patterns and track key performance in
 
 Role of reports: Determine effective customer discounts, facilities negotiations with consumers, and identify potentials business expansion oppurtunities in promosing countries.
 
+# Finance Report :
