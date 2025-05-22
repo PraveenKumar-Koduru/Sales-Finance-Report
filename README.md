@@ -1,4 +1,4 @@
-# Sales-Report :
+# Sales Report :
 **Project Objective**
 
 1. Created a customer performance report
