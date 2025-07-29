@@ -2,7 +2,7 @@
 - Project Objective
 
    1. Created a [Customer Performance Report](https://github.com/PraveenKumar-Koduru/Sales-Finance-Report/tree/main#:~:text=Customer%20Performance%20Report.pdf)
-   2. Condut a comprehensive comparison between market performance and sales targets
+   2. Condut a comprehensive comparison between [market performance and sales targets](https://github.com/PraveenKumar-Koduru/Sales-Finance-Report/tree/main#:~:text=Market%20Performance%20vs%20Target%20Report.pdf)
 
 - Purpose of sales analytics: Identify sales patterns and track key performance indicators(KPIs).
 
