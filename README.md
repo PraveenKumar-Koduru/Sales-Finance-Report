@@ -11,7 +11,7 @@
 # Finance Report :
 - Project Objective
 
-    1. Create Profit and Loss [(P&L) reports by Fiscal Year & Months](https://github.com/PraveenKumar-Koduru/Sales-Finance-Report/tree/main#:~:text=P%26L%20Statement%20by%20Fiscal%20Year.pdf) https://github.com/PraveenKumar-Koduru/Sales-Finance-Report/tree/main#:~:text=P%26L%20Statement%20by%20Months.pdf
+    1. Create Profit and Loss [(P&L) reports by Fiscal Year & Months](https://github.com/PraveenKumar-Koduru/Sales-Finance-Report/tree/main#:~:text=P%26L%20Statement%20by%20Fiscal%20Year.pdf)
     2. Create Profit and Loss (P&L) reports by Markets
 
 - Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
